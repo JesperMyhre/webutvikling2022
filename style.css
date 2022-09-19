@@ -1,0 +1,7 @@
+body{
+    max-width: 500px; /*begrenser plassen elementer kan ta opp*/
+    width: 100%; /*gjør at elementene fyller nettsidens vindu uavhengig av skjermstørrelse*/
+    float: right; /*bestemmer på hvilken side av skjermen elementet skal ligge*/
+    color: red;
+    background-color: yellow;
+}
